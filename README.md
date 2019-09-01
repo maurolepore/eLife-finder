@@ -29,7 +29,7 @@ A minimal system to share and find distributed projects.
 ---
 
 * Click on interestin issue "Teaches how to search for projects with eLife-finder share".
-* Evaluate how good the content is and vote :+1:.
+* Evaluate how good the content is, then comment and/or vote.
 
 ![](https://i.imgur.com/rCi7uCY.png)
 
