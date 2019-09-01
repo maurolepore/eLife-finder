@@ -18,13 +18,19 @@ A minimal system to share and find distributed projects.
 
 ![](https://i.imgur.com/lsn4ake.png)
 
+---
+
 * Click on interesting label "share".
 
 ![](https://i.imgur.com/T7hbT9H.png)
+
+---
 
 * Click on interestin issue "Teaches how to search for projects with eLife-finder share".
 * Evaluate how good the content is and vote :+1:.
 
 ![](https://i.imgur.com/rCi7uCY.png)
+
+---
 
 
