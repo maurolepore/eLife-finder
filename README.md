@@ -1,4 +1,2 @@
 # elife-finder
-A minimal system to gather distributed projects
-
-Inspired by https://github.com/gvwilson/harper
+A minimal system to gather distributed projects inspired by https://github.com/gvwilson/harper.
