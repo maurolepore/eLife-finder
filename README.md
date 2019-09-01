@@ -12,6 +12,8 @@ A minimal system to share and find distributed projects.
 
 ![](https://i.imgur.com/GR1IfQR.png)
 
+---
+
 * Click on "A minimal system to share and find distributed projects"
 * Read project description.
 * Notice interesting labels.
